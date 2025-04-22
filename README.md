@@ -1,1 +1,2 @@
 # landing-page
+This is just a non-responsive website I created to practise my HTML and CSS skills. I didn't have any significant problems that I couldn't figure out on my own. Overall, the website was fun and interesting to build.
